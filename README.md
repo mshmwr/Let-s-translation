@@ -11,7 +11,8 @@
 
 - Step 2 (Finish!)
   - Then input the number to get the examples of the meaning.
-    ![image](https://user-images.githubusercontent.com/66200737/129268839-7ba56c8b-9590-4e2a-a893-b1b5fbd36352.png)
+    ![image](https://user-images.githubusercontent.com/66200737/129269974-a2dc7fa4-899b-42a2-b885-4541cbd3fa0c.png)
+
 
 ### Error input
 - The word is not in the dictionary
