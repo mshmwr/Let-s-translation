@@ -5,13 +5,13 @@
 
 ### How to use
 - Step 1
-  Input the English word, and wait a second. 
-  The chat robot will show you the meanings of the word.
-  ![image](https://user-images.githubusercontent.com/66200737/129268732-2071024d-ae9b-4975-8b30-4ff7817d8c56.png)
+  - Input the English word, and wait a second. 
+  - The chat robot will show you the meanings of the word.
+    ![image](https://user-images.githubusercontent.com/66200737/129268732-2071024d-ae9b-4975-8b30-4ff7817d8c56.png)
 
 - Step 2 (Finish!)
-  Then input the number to get the examples of the meaning.
-  ![image](https://user-images.githubusercontent.com/66200737/129268839-7ba56c8b-9590-4e2a-a893-b1b5fbd36352.png)
+  - Then input the number to get the examples of the meaning.
+    ![image](https://user-images.githubusercontent.com/66200737/129268839-7ba56c8b-9590-4e2a-a893-b1b5fbd36352.png)
 
 ### Error input
 - The word is not in the dictionary
